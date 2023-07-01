@@ -7,7 +7,7 @@ function Hero() {
             <nav className='flex justify-between items-center w-full mb-10 pt-3'>
                 <img src={logo} alt="sumz_logo" className='w-28 object-contain' />
 
-                <button type="button" onClick={() => { window.open('https://shahpranaf.github.io') }} className='black_btn' >
+                <button type="button" onClick={() => { window.open('https://github.com/shahpranaf/react-ai-summarizer') }} className='black_btn' >
                     Github
                 </button>
             </nav>
